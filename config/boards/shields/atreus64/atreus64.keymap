@@ -16,7 +16,7 @@
             >;
         };
 
-        bt-layer{
+        bt_layer{
             bindings = <
                 &kp N1          &kp N1          &kp N1          &kp N1      
                 &kp N1          &kp N1          &kp N1          &kp N1      
