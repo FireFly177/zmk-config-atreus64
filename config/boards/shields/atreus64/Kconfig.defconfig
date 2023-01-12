@@ -1,0 +1,6 @@
+if SHIELD_ATREUS64
+
+config ZMK_KEYBOARD_NAME
+    default "atreus64"
+
+endif
