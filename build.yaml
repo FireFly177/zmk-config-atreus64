@@ -13,5 +13,6 @@
 #
 ---
 include:
-  - board: nrfmicro_13
+  - board: nice_nano_v2 
+  # nrfmicro_13
     shield: atreus64
